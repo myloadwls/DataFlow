@@ -1,0 +1,6 @@
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\DataFlow.exe.config
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\DataFlow.exe
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\DataFlow.pdb
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.csprojResolveAssemblyReference.cache
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.exe
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.pdb
