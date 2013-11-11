@@ -1,0 +1,8 @@
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\awolf\Dropbox\development\DataFlow\Palindromes\obj\Debug\Palindromes.pdb

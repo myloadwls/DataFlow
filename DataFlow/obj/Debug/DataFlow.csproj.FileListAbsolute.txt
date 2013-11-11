@@ -4,3 +4,5 @@ C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\DataFlow.pdb
 C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.csprojResolveAssemblyReference.cache
 C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.exe
 C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\obj\Debug\DataFlow.pdb
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\awolf\Dropbox\development\DataFlow\DataFlow\bin\Debug\System.Threading.Tasks.Dataflow.xml
