@@ -8,8 +8,12 @@ namespace PixelFlow
 {
     public class Image : IHttpHandler
     {
-        private static string connString = ConfigurationManager
-            .ConnectionStrings["Database"].ConnectionString;
+        Global app;
+
+        public Image()
+        {
+            app = (Global)HttpContext.Current.ApplicationInstance;
+        }
 
         public void ProcessRequest(HttpContext context)
         {
@@ -39,7 +43,7 @@ namespace PixelFlow
 
         private void SavePixelRequest(HttpContext context)
         {
-            // An exercise for the reader    
+            app.SaveRequest(new Request() { Referer = context.Request.UrlReferrer.ToString() });
         }
 
         public bool IsReusable
@@ -48,15 +52,6 @@ namespace PixelFlow
             {
                 return true;
             }
-        }
-    }
-
-    public class Request
-    {
-        
-        public Request()
-        {
-            
         }
     }
 }
